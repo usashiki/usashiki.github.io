@@ -291,8 +291,8 @@ footer {
 
 figure > figcaption {
   text-align: center;
-  font-style: italic;
   font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
