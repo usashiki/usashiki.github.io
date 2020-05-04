@@ -46,7 +46,7 @@ This will probably take place around one or two weeks before the event. That’s
 
 {% include image.html url="/images/how-to-flowerstand/1st.jpg" description="Some flowerstands from Tokyo 7th Sisters 1st Live." %}
 
-## 4. That’s it
+## 4. That’s it!
 
 No, really. Obviously the flower shop will handle construction of the flowerstand, but they should also handle delivery before the event, and pick-up and disposal after the event. Be sure to take a picture and send it to the flower shop once you see the flowerstand in person along with your thanks.
 

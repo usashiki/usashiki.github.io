@@ -283,6 +283,12 @@ footer {
   text-align: center;
 }
 
+.entry > hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  // TODO: customize hr more?
+}
+
 figure > figcaption {
   text-align: center;
   font-style: italic;
