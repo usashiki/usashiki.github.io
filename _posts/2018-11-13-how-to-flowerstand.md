@@ -7,7 +7,7 @@ Hello all, fc here. I occasionally get questions about how to send flowerstands 
 
 <figure>
     <div style="width: 500px; display:block; margin-left: auto; margin-right: auto">
-        <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">here&#39;s the foreign shihainin flowerstand! thanks to everybody who donated!<br><br>海外支配人フラスタです！<br><br>flower: <a href="https://twitter.com/hananoki_flower?ref_src=twsrc%5Etfw">@hananoki_flower</a> <br>art: <a href="https://twitter.com/evilseaturtle?ref_src=twsrc%5Etfw">@evilseaturtle</a> <br>panel design: <a href="https://twitter.com/shi_nora?ref_src=twsrc%5Etfw">@shi_nora</a> <a href="https://twitter.com/hashtag/%E3%83%8A%E3%83%8A%E3%82%B7%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#ナナシス</a> <a href="https://twitter.com/hashtag/t7s?src=hash&amp;ref_src=twsrc%5Etfw">#t7s</a> <a href="https://t.co/5km0O8TtXl">pic.twitter.com/5km0O8TtXl</a></p>&mdash; うさ式 (@usashiki7) <a href="https://twitter.com/usashiki7/status/1053557601265479680?ref_src=twsrc%5Etfw">October 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="ja" dir="ltr">here&#39;s the foreign shihainin flowerstand! thanks to everybody who donated!<br><br>海外支配人フラスタです！<br><br>flower: <a href="https://twitter.com/hananoki_flower?ref_src=twsrc%5Etfw">@hananoki_flower</a> <br>art: <a href="https://twitter.com/evilseaturtle?ref_src=twsrc%5Etfw">@evilseaturtle</a> <br>panel design: <a href="https://twitter.com/shi_nora?ref_src=twsrc%5Etfw">@shi_nora</a> <a href="https://twitter.com/hashtag/%E3%83%8A%E3%83%8A%E3%82%B7%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#ナナシス</a> <a href="https://twitter.com/hashtag/t7s?src=hash&amp;ref_src=twsrc%5Etfw">#t7s</a> <a href="https://t.co/5km0O8TtXl">pic.twitter.com/5km0O8TtXl</a></p>&mdash; うさ式 (@usashiki7) <a href="https://twitter.com/usashiki7/status/1053557601265479680?ref_src=twsrc%5Etfw">October 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
     <figcaption>As an example, a flowerstand I organized recently for Tokyo 7th Sisters 4th Live.</figcaption>
 </figure>
@@ -78,7 +78,7 @@ I’ve personally never organized a flowerstand for an event outside of Tokyo, b
 
 From my experience, almost all Japanese events accept flowerstands. On the live website there should be a section about flowerstands, including when flower shops are allowed to deliver and pick up flowerstands. However, this section might not appear until a month or less before the event, so if you aren’t sure it might be good to look around Twitter or Twipla and see if there are Japanese fans organizing flowerstands as well.
 
-{% include image.html url="/images/how-to-flowerstand/section.png" description="An example of the flowerstand section on an event website. ([source](http://t7s.jp/live/4thlive/#sec05))" %}
+{% include image.html url="/images/how-to-flowerstand/section.png" description="An example of the flowerstand section on an event website. (<a href="http://t7s.jp/live/4thlive/#sec05">source</a>)" %}
 
 ---
 
