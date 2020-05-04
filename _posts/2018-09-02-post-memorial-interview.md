@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tokyo 7th Sisters General Director Motegi Shintarou Post-Memorial Interview Translation
+title: "[Translation] Tokyo 7th Sisters General Director Motegi Shintarou Post-Memorial Interview"
 ---
 
 Hello all, [fc](https://twitter.com/usashiki7) here. As promised, here is the translation to Animate Times’s [two](https://www.animatetimes.com/news/details.php?id=1533023667) [part](https://www.animatetimes.com/news/details.php?id=1533175912) post-Memorial Live Motegi interview, translated by myself and edited by [Shino](https://twitter.com/shi_nora). This took a bit longer than I would’ve liked (I might’ve taken a two week break to watch some dotes) but hopefully it’s worth the wait. ~~Also, if you haven’t seen already, here’s a form for the foreign shihainin flowerstand we’re sending to 4th Live: https://goo.gl/forms/3Gb9YSWXF6XI10IN2~~
