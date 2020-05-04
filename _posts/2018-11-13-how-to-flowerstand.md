@@ -20,7 +20,7 @@ The first step is, obviously, to find a flower shop. See what shops other people
 
 You’ll notice in that list above I didn’t include the actual design of the stand. That’s because it typically isn’t actually necessary to get your name down on the flower shop’s schedule. Each flower shop can only handle a certain number of orders at any one time, so if there’s a big event coming up, it’s possible that flower shops will start filling up well before the event. That’s why I suggest that once you know that you want to send a flowerstand, you should go ahead and reach out to a flower shop and get your name down.
 
-{% include image.html url="images/how-to-flowerstand/standard.jpg" description="The \"standard\" design." %}
+{% include image.html url="/images/how-to-flowerstand/standard.jpg" description="The \"standard\" design." %}
 
 ## 2. Figure out your design
 
@@ -42,7 +42,7 @@ This is pretty self-explanatory — you need to pay the flower shop for their wo
 
 This will probably take place around one or two weeks before the event. That’s because flower shops typically don’t start working on the flowerstand until one week or less before the event, because flowers wilt over time. If you prepared any panels yourself, you’ll want to get those to the flower shop around this time as well.
 
-{% include image.html url="images/how-to-flowerstand/1st.jpg" description="Some flowerstands from Tokyo 7th Sisters 1st Live." %}
+{% include image.html url="/images/how-to-flowerstand/1st.jpg" description="Some flowerstands from Tokyo 7th Sisters 1st Live." %}
 
 ## 4. That’s it
 
@@ -76,7 +76,7 @@ I’ve personally never organized a flowerstand for an event outside of Tokyo, b
 
 From my experience, almost all Japanese events accept flowerstands. On the live website there should be a section about flowerstands, including when flower shops are allowed to deliver and pick up flowerstands. However, this section might not appear until a month or less before the event, so if you aren’t sure it might be good to look around Twitter or Twipla and see if there are Japanese fans organizing flowerstands as well.
 
-{% include image.html url="images/how-to-flowerstand/section.jpg" description="An example of the flowerstand section on a event website. (source)" %}
+{% include image.html url="/images/how-to-flowerstand/section.jpg" description="An example of the flowerstand section on a event website. (source)" %}
 
 ---
 
