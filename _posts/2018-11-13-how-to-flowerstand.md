@@ -76,7 +76,7 @@ I’ve personally never organized a flowerstand for an event outside of Tokyo, b
 
 From my experience, almost all Japanese events accept flowerstands. On the live website there should be a section about flowerstands, including when flower shops are allowed to deliver and pick up flowerstands. However, this section might not appear until a month or less before the event, so if you aren’t sure it might be good to look around Twitter or Twipla and see if there are Japanese fans organizing flowerstands as well.
 
-{% include image.html url="/images/how-to-flowerstand/section.jpg" description="An example of the flowerstand section on a event website. (source)" %}
+{% include image.html url="/images/how-to-flowerstand/section.png" description="An example of the flowerstand section on a event website. (source)" %}
 
 ---
 

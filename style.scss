@@ -283,8 +283,11 @@ footer {
   text-align: center;
 }
 
-figure > figcaption {
+figure {
   text-align: center;
+}
+
+figure > figcaption {
   font-style: italic;
   font-size: 14px;
 }
