@@ -20,7 +20,7 @@ The first step is, obviously, to find a flower shop. See what shops other people
 
 You’ll notice in that list above I didn’t include the actual design of the stand. That’s because it typically isn’t actually necessary to get your name down on the flower shop’s schedule. Each flower shop can only handle a certain number of orders at any one time, so if there’s a big event coming up, it’s possible that flower shops will start filling up well before the event. That’s why I suggest that once you know that you want to send a flowerstand, you should go ahead and reach out to a flower shop and get your name down.
 
-{% include image.html url="/images/how-to-flowerstand/standard.jpg" description="The \"standard\" design." %}
+{% include image.html url="/images/how-to-flowerstand/standard.jpg" description="The “standard” design." %}
 
 ## 2. Figure out your design
 
