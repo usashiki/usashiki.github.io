@@ -20,6 +20,7 @@ To attach an image with a caption like on Medium, use the custom Liquid tag [`_i
 
 - [ ] make it easier to embed tweets: there's [this](https://github.com/rob-murray/jekyll-twitter-plugin) but [github doesn't support custom plugins](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#plugins) ([workaround](https://github.com/rob-murray/jekyll-twitter-plugin/issues/15#issuecomment-122787785))
 - [ ] make it easier to embed igs: [here's](http://khoparzi.com/2019-02-06-embedding-instagram-on-jekyll/) a hacky way
+- [ ] inconsistent centering of images/embeds
 - [ ] favicon?
 - [ ] name/description?
 - [ ] customize css?
