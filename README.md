@@ -16,7 +16,7 @@ To attach an image with a caption like on Medium, use [`_includes/image.html`](/
 {% include image.html url="/images/post-title/image.png" description="caption text" %}
 ```
 
-### TODOs
+## TODOs
 
 - [ ] favicon?
 - [ ] site description?
