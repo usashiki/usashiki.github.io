@@ -11,7 +11,7 @@ Fan of [Tokyo 7th Sisters](http://t7s.jp/) and [New Game!](http://newgame-anime.
 ### Flowerstands
 
 - [2019.07] [Tokyo 7th Sisters 5th Live Worldwide Shihainin Flowerstand](https://twitter.com/usashiki7/status/1149897380759842816)
-- [2018.10] [Tokyo 7th Sisters 4rd Live Foreign Shihainin Flowerstand](https://twitter.com/usashiki7/status/1053557601265479680)
+- [2018.10] [Tokyo 7th Sisters 4th Live Foreign Shihainin Flowerstand](https://twitter.com/usashiki7/status/1053557601265479680)
 - [2018.07] [Tokyo 7th Sisters Memorial Live Foreign Shihainin Flowerstand + Message Book](https://twitter.com/usashiki7/status/1020236892749598720)
 - [2017.04] [Tokyo 7th Sisters 3rd Live Foreign Shihainin Flowerstand](https://twitter.com/usashiki7/status/855716349926137856)
 - [2016.08] [Tokyo 7th Sisters 2nd Live Foreign Shihainin Flowerstand](https://twitter.com/usashiki7/status/767198907222949888)
