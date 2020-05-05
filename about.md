@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Fan of [Tokyo 7th Sisters](http://t7s.jp/) and [NEW GAME!](http://newgame-anime.com/), among others.
+Fan of [Tokyo 7th Sisters](http://t7s.jp/) and [New Game!](http://newgame-anime.com/), among others.
 
 ## Things I've helped make/organize
 
