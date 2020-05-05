@@ -24,4 +24,3 @@ To attach an image with a caption like on Medium, use the custom Liquid tag [`_i
 - [ ] favicon?
 - [ ] name/description?
 - [ ] customize css?
-- [ ] rss feed?
