@@ -27,7 +27,8 @@ Fan of [Tokyo 7th Sisters](http://t7s.jp/) and [New Game!](http://newgame-anime.
 
 ### Other
 
-- [2020.03] [eventersearch](https://github.com/usashiki/eventersearch): An app for browsing [Eventernote](https://www.eventernote.com/), written in [Flutter](https://flutter.dev/)
+- [2020.05] [Sine](https://github.com/usashiki/sine): A periodic episode tracker app, written in [Flutter](https://flutter.dev/)
+- [2020.03] [eventersearch](https://github.com/usashiki/eventersearch): An app for browsing [Eventernote](https://www.eventernote.com/), written in Flutter
 
 ## Things I've translated
 
