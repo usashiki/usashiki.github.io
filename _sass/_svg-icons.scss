@@ -21,7 +21,9 @@
     background-color: rgb(188, 42, 141);
     background-image: url("/images/instagram.svg");
     border-radius: 50%;
-    background-size: contain;
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 
   &.eventernote {
