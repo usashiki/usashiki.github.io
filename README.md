@@ -1,6 +1,6 @@
 # [usashiki.github.io](https://usashiki.github.io/)
 
-Forked from [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now).
+Forked from [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now). 
 
 ## Posts
 
