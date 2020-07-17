@@ -21,10 +21,11 @@ permalink: /stuff/
 - [2017.12] [Comic Market 93](https://twitter.com/rosetta_comet/status/944069910166044673)
 - [2017.04] [Nanafes 5th](https://twitter.com/rosetta_comet/status/852069946599329792)
 
-## Other
+## Code
 
 - [2020.05] [Sine](https://github.com/usashiki/sine): A periodic episode tracker app, written in [Flutter](https://flutter.dev/)
 - [2020.03] [eventersearch](https://github.com/usashiki/eventersearch): An app for browsing [Eventernote](https://www.eventernote.com/), written in Flutter
+- [2019.11] [webcatalog-helper](https://github.com/math4origami/webcatalog-helper): A Chrome/Firefox extension to improve the usability of the [Comiket Web Catalog](https://webcatalog.circle.ms/)
 
 ## Translations
 
